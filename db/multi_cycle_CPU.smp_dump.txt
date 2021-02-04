@@ -1,0 +1,13 @@
+
+State Machine - |multi_cycle_CPU|multicycle_controller:inst3|state
+Name state.MEMWB state.ALUWB state.MEMWRITE state.MEMREAD state.BRANCH state.EXECUTE_I state.EXECUTE_R state.MEMADR state.DECODE state.0000 
+state.0000 0 0 0 0 0 0 0 0 0 0 
+state.DECODE 0 0 0 0 0 0 0 0 1 1 
+state.MEMADR 0 0 0 0 0 0 0 1 0 1 
+state.EXECUTE_R 0 0 0 0 0 0 1 0 0 1 
+state.EXECUTE_I 0 0 0 0 0 1 0 0 0 1 
+state.BRANCH 0 0 0 0 1 0 0 0 0 1 
+state.MEMREAD 0 0 0 1 0 0 0 0 0 1 
+state.MEMWRITE 0 0 1 0 0 0 0 0 0 1 
+state.ALUWB 0 1 0 0 0 0 0 0 0 1 
+state.MEMWB 1 0 0 0 0 0 0 0 0 1 

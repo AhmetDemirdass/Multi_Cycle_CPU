@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ahmet\Desktop\COMPUTER_ARCHITECTURE\LAB_4_MULTICYCLE\simulation\qsim
+vmulti_cycle_CPU
+Z1 I]?LPLBSbdQe^8jkJkMJOO3
+Z2 Vkm77cZ5=SoHodVBgX>2jn2
+Z3 dC:\Users\ahmet\Desktop\COMPUTER_ARCHITECTURE\LAB_4_MULTICYCLE\simulation\qsim
+Z4 w1589072717
+Z5 8multi_cycle_CPU.vo
+Z6 Fmulti_cycle_CPU.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 nmulti_cycle_@c@p@u
+!i10b 1
+Z10 !s100 f1V>]UOS@>TJ3zR@Qg=RI0
+!s85 0
+Z11 !s108 1589072721.336000
+Z12 !s107 multi_cycle_CPU.vo|
+Z13 !s90 -work|work|multi_cycle_CPU.vo|
+!s101 -O0
+vmulti_cycle_CPU_vlg_check_tst
+!i10b 1
+!s100 ;>mFa33ZGF1T7Bl5PzObO3
+I_ah8mT3On@]Ja>ih]e7R:3
+VifDJT32[nb6<LFUnFZ2zO0
+R3
+Z14 w1589072713
+Z15 8multi_cycle_CPU.vwf.vt
+Z16 Fmulti_cycle_CPU.vwf.vt
+L0 81
+R7
+r1
+!s85 0
+31
+Z17 !s108 1589072721.999000
+Z18 !s107 multi_cycle_CPU.vwf.vt|
+Z19 !s90 -work|work|multi_cycle_CPU.vwf.vt|
+!s101 -O0
+R8
+nmulti_cycle_@c@p@u_vlg_check_tst
+vmulti_cycle_CPU_vlg_sample_tst
+!i10b 1
+!s100 DIF7d_:P`zHZ7<Tkd3:mg1
+Il5ATQ87;[ZcKL9RVM>HZd2
+V>Wh4[JiQ6E:K8:D4:TzF`3
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+nmulti_cycle_@c@p@u_vlg_sample_tst
+vmulti_cycle_CPU_vlg_vec_tst
+!i10b 1
+!s100 ;l<0fVzDHL`jS=QoP48791
+IK^[JZA5oD?8C3SHJ]n>=l1
+VLEb0gRo0S:9=[O1e1b4dM3
+R3
+R14
+R15
+R16
+L0 381
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+nmulti_cycle_@c@p@u_vlg_vec_tst

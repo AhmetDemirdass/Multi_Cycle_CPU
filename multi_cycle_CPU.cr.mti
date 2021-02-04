@@ -1,0 +1,11 @@
+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/multi_cycle_CPU.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/multi_cycle_CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/multi_cycle_CPU_tb.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/multi_cycle_CPU_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multi_cycle_CPU_tb
+
+Top level modules:
+	multi_cycle_CPU_tb
+
+} {} {}}

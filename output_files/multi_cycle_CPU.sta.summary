@@ -1,0 +1,185 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -12.290
+TNS   : -3338.387
+
+Type  : Slow 1200mV 85C Model Setup 'ALUControl[1]'
+Slack : -5.279
+TNS   : -41.565
+
+Type  : Slow 1200mV 85C Model Setup 'ALUControl[0]'
+Slack : -5.112
+TNS   : -32.093
+
+Type  : Slow 1200mV 85C Model Setup 'ALUSrcB[0]'
+Slack : -4.091
+TNS   : -28.281
+
+Type  : Slow 1200mV 85C Model Setup 'ImmSrc[0]'
+Slack : -0.412
+TNS   : -1.021
+
+Type  : Slow 1200mV 85C Model Hold 'ALUSrcB[0]'
+Slack : -2.990
+TNS   : -17.665
+
+Type  : Slow 1200mV 85C Model Hold 'ALUControl[0]'
+Slack : -1.660
+TNS   : -8.259
+
+Type  : Slow 1200mV 85C Model Hold 'ALUControl[1]'
+Slack : -1.379
+TNS   : -6.525
+
+Type  : Slow 1200mV 85C Model Hold 'ImmSrc[0]'
+Slack : -0.452
+TNS   : -0.942
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -338.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ALUControl[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ALUControl[1]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ALUSrcB[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ImmSrc[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -10.872
+TNS   : -2963.288
+
+Type  : Slow 1200mV 0C Model Setup 'ALUControl[1]'
+Slack : -4.593
+TNS   : -36.165
+
+Type  : Slow 1200mV 0C Model Setup 'ALUControl[0]'
+Slack : -4.442
+TNS   : -28.017
+
+Type  : Slow 1200mV 0C Model Setup 'ALUSrcB[0]'
+Slack : -3.612
+TNS   : -25.160
+
+Type  : Slow 1200mV 0C Model Setup 'ImmSrc[0]'
+Slack : -0.262
+TNS   : -0.475
+
+Type  : Slow 1200mV 0C Model Hold 'ALUSrcB[0]'
+Slack : -2.624
+TNS   : -15.626
+
+Type  : Slow 1200mV 0C Model Hold 'ALUControl[0]'
+Slack : -1.445
+TNS   : -7.120
+
+Type  : Slow 1200mV 0C Model Hold 'ALUControl[1]'
+Slack : -1.191
+TNS   : -5.661
+
+Type  : Slow 1200mV 0C Model Hold 'ImmSrc[0]'
+Slack : -0.336
+TNS   : -0.629
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -338.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ALUControl[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ALUControl[1]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ALUSrcB[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ImmSrc[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -6.709
+TNS   : -1819.948
+
+Type  : Fast 1200mV 0C Model Setup 'ALUControl[1]'
+Slack : -2.626
+TNS   : -20.510
+
+Type  : Fast 1200mV 0C Model Setup 'ALUControl[0]'
+Slack : -2.519
+TNS   : -15.598
+
+Type  : Fast 1200mV 0C Model Setup 'ALUSrcB[0]'
+Slack : -1.883
+TNS   : -12.661
+
+Type  : Fast 1200mV 0C Model Setup 'ImmSrc[0]'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ALUSrcB[0]'
+Slack : -1.882
+TNS   : -11.327
+
+Type  : Fast 1200mV 0C Model Hold 'ALUControl[0]'
+Slack : -1.111
+TNS   : -5.859
+
+Type  : Fast 1200mV 0C Model Hold 'ALUControl[1]'
+Slack : -0.929
+TNS   : -4.735
+
+Type  : Fast 1200mV 0C Model Hold 'ImmSrc[0]'
+Slack : -0.431
+TNS   : -1.312
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -349.944
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ALUSrcB[0]'
+Slack : -3.000
+TNS   : -5.836
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ALUControl[1]'
+Slack : -3.000
+TNS   : -3.010
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ALUControl[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ImmSrc[0]'
+Slack : -3.000
+TNS   : -3.000
+
+------------------------------------------------------------

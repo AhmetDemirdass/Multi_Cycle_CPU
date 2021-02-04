@@ -1,0 +1,89 @@
+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/register_file.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/register_file.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/register_wen.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/register_wen.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_wen
+
+Top level modules:
+	register_wen
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/MUX8to1.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/MUX8to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX8to1
+
+Top level modules:
+	MUX8to1
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/registerRes.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/registerRes.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerRes
+
+Top level modules:
+	registerRes
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/multi_cycle_CPU.bdf {0 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/multi_cycle_CPU.bdf
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Error: C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/multi_cycle_CPU.bdf(21): near "(": syntax error, unexpected '(', expecting class
+
+} {3.0 4.0} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/ALP.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/ALP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALP
+
+Top level modules:
+	ALP
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/multi_cycle_CPU_tb.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/multi_cycle_CPU_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multi_cycle_CPU_tb
+
+Top level modules:
+	multi_cycle_CPU_tb
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/multicycle_controller.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/multicycle_controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multicycle_controller
+
+Top level modules:
+	multicycle_controller
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/DECODER3_8.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/DECODER3_8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DECODER3_8
+
+Top level modules:
+	DECODER3_8
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/EXTEND.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/EXTEND.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EXTEND
+
+Top level modules:
+	EXTEND
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/MUX2to1.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/MUX2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX2to1
+
+Top level modules:
+	MUX2to1
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/data_instr_memory.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/data_instr_memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_instr_memory
+
+Top level modules:
+	data_instr_memory
+
+} {} {}} C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/MUX4to1.v {1 {vlog -work work C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_5_MULTICYCLE/MUX4to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX4to1
+
+Top level modules:
+	MUX4to1
+
+} {} {}}

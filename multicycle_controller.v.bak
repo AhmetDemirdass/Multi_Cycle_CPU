@@ -1,0 +1,63 @@
+module multicycle_controller(
+input clk,
+input reset,
+input run,
+input [3:0] cond,
+input [1:0] op,
+input [4:0] func,
+input [2:0] Rd,
+output reg ADRSrc, PCWrite, MemWrite, IRWrite, RegWrite, ALUSrcA, 
+output reg [1:0] ImmSrc, ALUSrcB, ResultSrc, RegSrc,
+output reg [3:0] ALUControl
+);
+
+reg [3:0] state, nextstate;
+assign FETCH = 4'b0000 , DECODE = 4'b0001, MEMADR = 4'b0010,EXECUTE_R = 4'b0011, EXECUTE_I = 4'b0100, 
+		 BRANCH = 4'b0101, MEMREAD = 4'b0110, MEMWRITE = 4'b0111, ALUWB = 4'b1000, MEMWB = 4'b1001
+
+initial
+begin 
+
+end
+
+always@(posedge clk)
+begin
+case(state)
+FETCH : 
+begin
+	ADRSrc <= 0;
+	ALUSrcA <= 1;
+	ALUSrcB <= 2'b10;
+	ALUControl <= 0;
+	ResultSrc <= 2'b10;
+	IRWrite <= 1;
+	PCWrite <= 1;
+end			
+DECODE :
+begin
+	ALUSrcA <= 1;
+	ALUSrcB <= 2'b10;
+	ALUControl <= 0;
+	ResultSrc <= 2'b10;
+end 
+MEMADR :
+begin
+	ALUSrcA <= 0;
+	ALUSrcB <= 2'b01;
+	ALUControl <= 0;
+end
+EXECUTE_R :
+begin
+	ALUSrcA <= 0;
+	ALUSrcB <= 2'b00;
+end
+EXECUTE_I :
+BRANCH :
+MEMREAD : 
+MEMWRITE :
+ALUWB :
+MEMWB :
+
+end
+
+endmodule

@@ -1,0 +1,79 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do multi_cycle_CPU_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/ALP.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALP
+# 
+# Top level modules:
+# 	ALP
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/register_file.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module register_file
+# 
+# Top level modules:
+# 	register_file
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/data_instr_memory.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module data_instr_memory
+# 
+# Top level modules:
+# 	data_instr_memory
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/register_wen.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module register_wen
+# 
+# Top level modules:
+# 	register_wen
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/MUX2to1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MUX2to1
+# 
+# Top level modules:
+# 	MUX2to1
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/MUX4to1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MUX4to1
+# 
+# Top level modules:
+# 	MUX4to1
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/EXTEND.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module EXTEND
+# 
+# Top level modules:
+# 	EXTEND
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/registerRes.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module registerRes
+# 
+# Top level modules:
+# 	registerRes
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/multicycle_controller.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module multicycle_controller
+# 
+# Top level modules:
+# 	multicycle_controller
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/mux8to1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MUX8to1
+# 
+# Top level modules:
+# 	MUX8to1
+# vlog -vlog01compat -work work +incdir+C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE {C:/Users/ahmet/Desktop/COMPUTER_ARCHITECTURE/LAB_4_MULTICYCLE/decoder3_8.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DECODER3_8
+# 
+# Top level modules:
+# 	DECODER3_8
+# 
